@@ -31,6 +31,7 @@ module GoodData
 
       # Content When options
       :recurrency => '0:0:0:12:0:0',
+
       :startDate => '2012-06-05',
       :timeZone => 'America/Los_Angeles',
 
